@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "setfilter:item/set_filter_module"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "setfilter:block/set_filter" }
+    }
+}
